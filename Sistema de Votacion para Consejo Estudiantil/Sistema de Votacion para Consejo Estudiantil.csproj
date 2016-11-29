@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E7031BCB-751E-4055-8A48-9D1FF031D713}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sistema_de_Votacion_para_Consejo_Estudiantil</RootNamespace>
+    <AssemblyName>Sistema de Votacion para Consejo Estudiantil</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Video">
+      <HintPath>D:\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\bin\Debug\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow">
+      <HintPath>D:\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\bin\Debug\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.1.3.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AES.cs" />
+    <Compile Include="Bienvenida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bienvenida.Designer.cs">
+      <DependentUpon>Bienvenida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmWebcam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWebcam.designer.cs">
+      <DependentUpon>frmWebcam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgregarVotantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgregarVotantes.Designer.cs">
+      <DependentUpon>frmAgregarVotantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBuscarVotantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBuscarVotantes.Designer.cs">
+      <DependentUpon>frmBuscarVotantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditarEspecialidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditarEspecialidad.designer.cs">
+      <DependentUpon>frmEditarEspecialidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fondo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fondo.Designer.cs">
+      <DependentUpon>Fondo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoginReset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoginReset.Designer.cs">
+      <DependentUpon>frmLoginReset.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditarAdmins.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditarAdmins.Designer.cs">
+      <DependentUpon>frmEditarAdmins.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditarVotantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditarVotantes.designer.cs">
+      <DependentUpon>frmEditarVotantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditarCandidatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditarCandidatos.Designer.cs">
+      <DependentUpon>frmEditarCandidatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenuPrincipalAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenuPrincipalAdm.Designer.cs">
+      <DependentUpon>frmMenuPrincipalAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRecuperarPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRecuperarPass.Designer.cs">
+      <DependentUpon>frmRecuperarPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVotacionCandidato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVotacionCandidato.designer.cs">
+      <DependentUpon>frmVotacionCandidato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMenuPrincipalSAdm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMenuPrincipalSAdm.Designer.cs">
+      <DependentUpon>frmMenuPrincipalSAdm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVotante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVotante.designer.cs">
+      <DependentUpon>frmVotante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helper.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen.Designer.cs">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Bienvenida.resx">
+      <DependentUpon>Bienvenida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWebcam.resx">
+      <DependentUpon>frmWebcam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgregarVotantes.resx">
+      <DependentUpon>frmAgregarVotantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBuscarVotantes.resx">
+      <DependentUpon>frmBuscarVotantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditarEspecialidad.resx">
+      <DependentUpon>frmEditarEspecialidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fondo.resx">
+      <DependentUpon>Fondo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoginReset.resx">
+      <DependentUpon>frmLoginReset.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditarAdmins.resx">
+      <DependentUpon>frmEditarAdmins.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditarVotantes.resx">
+      <DependentUpon>frmEditarVotantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditarCandidatos.resx">
+      <DependentUpon>frmEditarCandidatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenuPrincipalAdm.resx">
+      <DependentUpon>frmMenuPrincipalAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRecuperarPass.resx">
+      <DependentUpon>frmRecuperarPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVotacionCandidato.resx">
+      <DependentUpon>frmVotacionCandidato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMenuPrincipalSAdm.resx">
+      <DependentUpon>frmMenuPrincipalSAdm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVotante.resx">
+      <DependentUpon>frmVotante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen.resx">
+      <DependentUpon>SplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SplashScreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sa1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\51.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bienvenido.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\esa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imagenes\sdkfsdfk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\imagenes\buscar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FondoFrm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sinfoto1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sin título.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

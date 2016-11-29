@@ -1,0 +1,97 @@
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\bin\Debug\Sistema de Votacion para Consejo Estudiantil.exe
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\bin\Debug\Sistema de Votacion para Consejo Estudiantil.pdb
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema de Votacion para Consejo Estudiantil.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.Properties.Resources.resources
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema de Votacion para Consejo Estudiantil.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema de Votacion para Consejo Estudiantil.exe
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema de Votacion para Consejo Estudiantil.pdb
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmLogin.resources
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmeditarcandidatos.resources
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmVotante.resources
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmEspecialidad.resources
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmEditarVotantes.resources
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmEditarAdmins.resources
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmSplashScreen.resources
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmBienvenida.resources
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmFondo.resources
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmVotacionCandidato.resources
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmMenuPrincipalAdm.resources
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmMenuPrincipalSAdm.resources
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmRecuperarPass.resources
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmInicioNueva.resources
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmAgregarVotantes.resources
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmBuscarVotantes.resources
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema de Votacion para Consejo Estudiantil.exe
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema de Votacion para Consejo Estudiantil.pdb
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\bin\Debug\Sistema de Votacion para Consejo Estudiantil.exe
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\bin\Debug\Sistema de Votacion para Consejo Estudiantil.pdb
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema de Votacion para Consejo Estudiantil.csprojResolveAssemblyReference.cache
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmBienvenida.resources
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmAgregarVotantes.resources
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmBuscarVotantes.resources
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmEspecialidad.resources
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmFondo.resources
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmInicioNueva.resources
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmEditarAdmins.resources
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmEditarVotantes.resources
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmLogin.resources
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmEditarCandidatos.resources
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmMenuPrincipalAdm.resources
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmRecuperarPass.resources
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmVotacionCandidato.resources
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmMenuPrincipalSAdm.resources
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmVotante.resources
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.Properties.Resources.resources
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmSplashScreen.resources
+P:\Prototype\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema de Votacion para Consejo Estudiantil.csproj.GenerateResource.Cache
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema de Votacion para Consejo Estudiantil.exe
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema de Votacion para Consejo Estudiantil.pdb
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\bin\Debug\Sistema de Votacion para Consejo Estudiantil.exe
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\bin\Debug\Sistema de Votacion para Consejo Estudiantil.pdb
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema de Votacion para Consejo Estudiantil.csprojResolveAssemblyReference.cache
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmBienvenida.resources
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmAgregarVotantes.resources
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmBuscarVotantes.resources
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmEspecialidad.resources
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmFondo.resources
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmInicioNueva.resources
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmEditarAdmins.resources
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmEditarVotantes.resources
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmLogin.resources
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmEditarCandidatos.resources
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmMenuPrincipalAdm.resources
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmRecuperarPass.resources
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmVotacionCandidato.resources
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmMenuPrincipalSAdm.resources
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmVotante.resources
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.Properties.Resources.resources
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmSplashScreen.resources
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema de Votacion para Consejo Estudiantil.csproj.GenerateResource.Cache
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmWebcam.resources
+C:\Users\Carlos\Desktop\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmWebcam.resources
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Invitado\Desktop\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\bin\Debug\AForge.Video.dll
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema de Votacion para Consejo Estudiantil.exe
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema de Votacion para Consejo Estudiantil.pdb
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\bin\Debug\Sistema de Votacion para Consejo Estudiantil.exe
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\bin\Debug\Sistema de Votacion para Consejo Estudiantil.pdb
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema de Votacion para Consejo Estudiantil.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmBienvenida.resources
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmWebcam.resources
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmAgregarVotantes.resources
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmBuscarVotantes.resources
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmEspecialidad.resources
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmFondo.resources
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmInicioNueva.resources
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmEditarAdmins.resources
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmEditarVotantes.resources
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmLogin.resources
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmEditarCandidatos.resources
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmMenuPrincipalAdm.resources
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmRecuperarPass.resources
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmVotacionCandidato.resources
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmMenuPrincipalSAdm.resources
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmVotante.resources
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.Properties.Resources.resources
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema_de_Votacion_para_Consejo_Estudiantil.frmSplashScreen.resources
+C:\Users\Carlos\Desktop\Escritorio\PTC\Sistema de Votacion para Consejo Estudiantil\Sistema de Votacion para Consejo Estudiantil\obj\x86\Debug\Sistema de Votacion para Consejo Estudiantil.csproj.GenerateResource.Cache
